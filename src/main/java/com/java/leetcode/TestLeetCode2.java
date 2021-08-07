@@ -17,7 +17,7 @@ public class TestLeetCode2 {
     @Test
     public void testThreeSum() {
 
-
+        System.out.println("mactijioa");
 
      }
 
