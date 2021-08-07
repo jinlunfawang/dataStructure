@@ -1,6 +1,5 @@
 package com.java.leetcode.链表;
 
-import scala.xml.dtd.NoExternalID;
 
 /**
  * https://leetcode-cn.com/problems/reverse-linked-list/
