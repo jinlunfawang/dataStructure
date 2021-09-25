@@ -1,6 +1,6 @@
 package com.java.leetcode;
 
-import org.junit.Test;
+
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -14,12 +14,7 @@ import java.util.List;
  * @Date: 2020/9/19 14:23
  */
 public class TestLeetCode2 {
-    @Test
-    public void testThreeSum() {
 
-        System.out.println("macti999999999999999999jioa");
-
-     }
 
     /**
      * 列表的反转
