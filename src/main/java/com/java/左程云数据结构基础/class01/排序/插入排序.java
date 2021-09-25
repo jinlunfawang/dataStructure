@@ -1,4 +1,4 @@
-package com.java.左程云数据结构基础.class01;
+package com.java.左程云数据结构基础.class01.排序;
 
 import org.junit.Test;
 
@@ -18,14 +18,14 @@ public class 插入排序 {
         boolean falg = true;
         // 2.排序 maxTime次
         for (int i = 0; i < maxTime; i++) {
-            int[] arr1 = checkMachine.arrGen(maxLength);
-            int[] arr2 = checkMachine.arrCopy(arr1);
+            int[] arr1 = CheckMachine.arrGen(maxLength);
+            int[] arr2 = CheckMachine.arrCopy(arr1);
             insertSort2(arr1);
             Arrays.sort(arr2);
             // 3 看排的对不对 和自带的数组排序比较 有一次不对 直接跳出循环
-            if (!checkMachine.arrEquals(arr1, arr2)) {
+            if (!CheckMachine.arrEquals(arr1, arr2)) {
                 falg = false;
-                checkMachine.arrPrint(arr1);
+                CheckMachine.arrPrint(arr1);
                 break;
             }
         }
@@ -51,7 +51,7 @@ public class 插入排序 {
             // 2 第二个for 依次比较两个数并且向前移动
             for (int j = i; j > 0; j--) {
                 if (arr[j] < arr[j - 1]) {
-                    checkMachine.swap(arr, j, j - 1);
+                    CheckMachine.swap(arr, j, j - 1);
                 }
             }
         }
@@ -64,7 +64,7 @@ public class 插入排序 {
         for (int i = 0; i < arr.length; i++) {
             for (int j = i; j >0; j--) {
                 if(arr[j-1]>arr[j])
-                 checkMachine.swap(arr,j,j-1);
+                 CheckMachine.swap(arr,j,j-1);
             }
 
         }

@@ -1,4 +1,4 @@
-package com.java.左程云数据结构基础.class01;
+package com.java.左程云数据结构基础.class01.排序;
 
 
 import org.junit.Test;
@@ -20,14 +20,14 @@ public class 冒泡排序 {
         boolean falg = true;
         // 2.排序 maxTime次
         for (int i = 0; i < maxTime; i++) {
-            int[] arr1 = checkMachine.arrGen(maxLength);
-            int[] arr2 = checkMachine.arrCopy(arr1);
+            int[] arr1 = CheckMachine.arrGen(maxLength);
+            int[] arr2 = CheckMachine.arrCopy(arr1);
             bubblingSort(arr1);
             Arrays.sort(arr2);
             // 3 看排的对不对 和自带的数组排序比较 有一次不对 直接跳出循环
-            if (!checkMachine.arrEquals(arr1, arr2)) {
+            if (!CheckMachine.arrEquals(arr1, arr2)) {
                 falg = false;
-                checkMachine.arrPrint(arr1);
+                CheckMachine.arrPrint(arr1);
                 break;
             }
         }
@@ -49,7 +49,7 @@ public class 冒泡排序 {
         for (int i = 1; i < arr.length; i++) {
             for (int j = 0; j < arr.length-i ; j++) {
                 if ( arr[j] > arr[j + 1] )
-                    checkMachine.swap(arr, j, j + 1);
+                    CheckMachine.swap(arr, j, j + 1);
             }
 
         }

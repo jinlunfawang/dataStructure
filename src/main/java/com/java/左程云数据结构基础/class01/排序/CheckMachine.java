@@ -1,11 +1,12 @@
-package com.java.左程云数据结构基础.class01;
+package com.java.左程云数据结构基础.class01.排序;
 
 /**
+ * 对数器
  * @version 1.0
  * @Author: liangfangwei
  * @Date: 2021/9/12 21:03
  */
-public class checkMachine {
+public class CheckMachine {
 
     /**
      * 交换两个位置
@@ -30,6 +31,11 @@ public class checkMachine {
 
     }
 
+    /**
+     * 生成随机数组
+     * @param maxLength
+     * @return
+     */
     public static int[] arrGen(int maxLength) {
         if (maxLength < 1) return null;
         //1. 随机长度的数组
@@ -42,6 +48,10 @@ public class checkMachine {
         return arr1;
     }
 
+    /**
+     * 打印数组
+     * @param arr1
+     */
     public static void arrPrint(int[] arr1) {
         if (arr1 == null || arr1.length == 0) return;
         for (int i = 0; i < arr1.length; i++) {
@@ -50,6 +60,12 @@ public class checkMachine {
         }
     }
 
+    /**
+     * 判断两个数组是否相等
+     * @param arr1
+     * @param arr2
+     * @return
+     */
     public static boolean arrEquals(int[] arr1, int[] arr2) {
         //1 长度相等
         if (arr1.length != arr1.length) return false;
@@ -60,6 +76,11 @@ public class checkMachine {
         return true;
     }
 
+    /**
+     * 复制数组
+     * @param arr1
+     * @return
+     */
     public static int[] arrCopy(int[] arr1) {
         if (arr1 != null && arr1.length >= 0) {
             int[] arr = new int[arr1.length];
