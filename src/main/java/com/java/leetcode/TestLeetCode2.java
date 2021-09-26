@@ -17,14 +17,11 @@ public class TestLeetCode2 {
     @Test
     public void testThreeSum() {
 
-        System.out.println("macti999999999999999999jioa");
+        System.out.println("mactijioa");
 
      }
 
-    /**
-     * 列表的反转
-     * @param head
-     * @return
+
 
 
     /**

@@ -8,7 +8,6 @@ package com.java.liangfwDS.linkedListExercise;
 public class LinkedList<T> extends AbstractList<T> {
 
     private Node first;
-
     static class Node<T> {
         T element;
         Node next;
