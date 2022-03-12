@@ -1,4 +1,4 @@
-package com.java.左程云数据结构基础.class01.异或;
+package 左神算法.认识复杂度对数器二分法与异或运算.异或;
 
 /**
  *
@@ -22,7 +22,7 @@ public class 异或运算01_不需要额外变量交换两值
      */
     public static void main(String[] args) {
         int a=5;
-        int b=5;
+        int b=10;
          a=a^b;
          b=a^b;
          a=a^b;

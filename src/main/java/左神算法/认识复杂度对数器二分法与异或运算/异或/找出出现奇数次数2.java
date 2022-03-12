@@ -1,10 +1,9 @@
-package com.java.左程云数据结构基础.class01.异或;
+package 左神算法.认识复杂度对数器二分法与异或运算.异或;
 
 /**
  * @version 1.0
  * @Author: liangfangwei
  * @Date: 2021/9/25 20:18
- * <p>
  * 一个数组中有两种数出现了奇数次，其他数都出现了偶数次，怎么找到并打印这两种数
  * 思路:
  * 假设这两种数为 a b
@@ -21,7 +20,6 @@ public class 找出出现奇数次数2 {
             System.out.println(ints[i]);
         }
     }
-
     private static int[] twoOdds(int[] arr) {
         // 存储a^b的结果
         int result = 0;
@@ -29,6 +27,7 @@ public class 找出出现奇数次数2 {
             result ^= arr[i];
         }
         // 提取出最右侧的1
+        // 怎么提: 取反+1 再与运算
         int rightOne = result & (~result + 1);
         int a = 0;
         for (int i = 0; i < arr.length; i++) {
@@ -36,7 +35,6 @@ public class 找出出现奇数次数2 {
             if ((arr[i] & rightOne) != 0) {
                 a ^= arr[i];
             }
-
         }
         return new int[]{a, a ^ result};
 
