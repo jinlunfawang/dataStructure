@@ -27,7 +27,8 @@ import java.util.Queue;
  * @author :LiangFangWei
  * @description: 使用队列实现栈 队列是先进先出 栈先进后出
  * 一个data队列 :放数据
- * 一个help队列: 取数据时把data的数据除过最后一个元素都放进help 然后出队列 交换两个栈
+ * 一个help队列: 取数据时把data的数据除过最后一个元素都放进help 然后出队列 交换两个栈1
+ *
  * @date: 2022-03-13 10:28
  */
 
