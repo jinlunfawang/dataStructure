@@ -53,4 +53,7 @@ public class test1 {
 
         System.out.println("random="+(int)(Math.random()*1000));
     }
+
+
+
 }

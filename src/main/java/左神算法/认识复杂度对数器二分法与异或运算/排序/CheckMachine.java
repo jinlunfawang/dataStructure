@@ -2,6 +2,7 @@ package 左神算法.认识复杂度对数器二分法与异或运算.排序;
 
 /**
  * 对数器
+ *
  * @version 1.0
  * @Author: liangfangwei
  * @Date: 2021/9/12 21:03
@@ -33,6 +34,7 @@ public class CheckMachine {
 
     /**
      * 生成随机数组
+     *
      * @param maxLength
      * @return
      */
@@ -40,7 +42,7 @@ public class CheckMachine {
         if (maxLength < 1) return null;
         //1. 随机长度的数组
         // maxLength+1 为了防止maxLength=1 的时候 数组为空
-        int[] arr1 = new int[(int) (Math.random() * (maxLength+1))];
+        int[] arr1 = new int[(int) (Math.random() * (maxLength + 1))];
         for (int i = 0; i < arr1.length; i++) {
             // 为了让出现负数
             arr1[i] = (int) (Math.random() * maxLength - Math.random() * maxLength);
@@ -48,8 +50,11 @@ public class CheckMachine {
         return arr1;
     }
 
+
+
     /**
      * 打印数组
+     *
      * @param arr1
      */
     public static void arrPrint(int[] arr1) {
@@ -60,8 +65,11 @@ public class CheckMachine {
         }
     }
 
+
+
     /**
      * 判断两个数组是否相等
+     *
      * @param arr1
      * @param arr2
      * @return
@@ -70,14 +78,19 @@ public class CheckMachine {
         //1 长度相等
         if (arr1.length != arr1.length) return false;
         // 2 值相等
+
         for (int i = 0; i < arr1.length; i++) {
-            if (arr1[i] != arr2[i]) return false;
+            if (arr1[i] != arr2[i]) {
+                System.out.println();
+                return false;
+            } ;
         }
         return true;
     }
 
     /**
      * 复制数组
+     *
      * @param arr1
      * @return
      */
