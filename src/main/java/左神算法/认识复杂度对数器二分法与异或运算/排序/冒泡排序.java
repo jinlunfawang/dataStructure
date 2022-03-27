@@ -10,19 +10,23 @@ import java.util.Arrays;
  * @version 1.0
  * @Author: liangfangwei
  * @Date: 2021/9/12 20:50
+ *
+ *
  */
 public class 冒泡排序 {
     @Test
     public void test() {
-      long maxTime = 10990000L;
-        int maxLength = 22;
+      long maxTime = 100L;
+        int maxLength = 50000;
         // 1.生成最大长度为maxLength的数组
         boolean falg = true;
+        long beginTime = System.currentTimeMillis();
         // 2.排序 maxTime次
         for (int i = 0; i < maxTime; i++) {
             int[] arr1 = CheckMachine.arrGen(maxLength);
             int[] arr2 = CheckMachine.arrCopy(arr1);
             bubblingSort(arr1);
+
             Arrays.sort(arr2);
             // 3 看排的对不对 和自带的数组排序比较 有一次不对 直接跳出循环
             if (!CheckMachine.arrEquals(arr1, arr2)) {
@@ -31,7 +35,8 @@ public class 冒泡排序 {
                 break;
             }
         }
-
+      long endTime=System.currentTimeMillis();
+        System.out.println(endTime-beginTime);
         System.out.println(falg ? "nice" : "fuck fucking");
 
     }
@@ -53,8 +58,7 @@ public class 冒泡排序 {
             }
 
         }
-
-
     }
+
 
 }
