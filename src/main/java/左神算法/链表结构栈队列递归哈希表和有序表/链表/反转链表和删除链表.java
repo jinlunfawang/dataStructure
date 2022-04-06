@@ -36,7 +36,7 @@ public class 反转链表和删除链表 {
 
 
     public static void main(String[] args) {
-
+  System.out.println("远程修改");
         int len = 1000;
         int value = 10000;
         int times = 100000;
