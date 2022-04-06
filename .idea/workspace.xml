@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="354756a2-e388-44b7-9e1c-ebbd0983b87e" name="Default Changelist" comment="实现了栈和队列">
-      <change afterPath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/Paration1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/SmallSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/归并排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/性能比较" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/荷兰国旗问题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/CheckMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/CheckMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/冒泡排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/冒泡排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/插入排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/插入排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/选择排序.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/选择排序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/CheckMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/CheckMachine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/冒泡排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/冒泡排序.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/插入排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/插入排序.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/选择排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/选择排序.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue$DoubuleNodeToStackAndQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue$DoubuleNodeToStackAndQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue$MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue$MyQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue$MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue$MyStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/参考反转链表$DoubleNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/参考反转链表$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/参考反转链表.class" beforeDir="false" />
-    </list>
+    <list default="true" id="354756a2-e388-44b7-9e1c-ebbd0983b87e" name="Default Changelist" comment="11" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -158,17 +139,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="插入排序.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="dataStructure" />
       <extension name="coverage">
@@ -250,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1647164024633</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="11">
+      <created>1649254041269</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649254041269</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +249,8 @@
     <MESSAGE value="测试mac提交" />
     <MESSAGE value="测试mac提交2" />
     <MESSAGE value="实现了栈和队列" />
-    <option name="LAST_COMMIT_MESSAGE" value="实现了栈和队列" />
+    <MESSAGE value="11" />
+    <option name="LAST_COMMIT_MESSAGE" value="11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
