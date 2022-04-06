@@ -92,7 +92,7 @@
       <recent name="左神算法.链表结构栈队列递归哈希表和有序表.链表" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuickSort1">
+  <component name="RunManager" selected="Application.Paration1">
     <configuration name="归并排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="左神算法.认识复杂度对数器二分法与异或运算.排序.归并排序" />
       <module name="dataStructure" />
@@ -158,15 +158,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -189,7 +187,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.QuickSort1" />
         <item itemvalue="Application.Paration1" />
         <item itemvalue="Application.归并排序" />
         <item itemvalue="Application.SmallSum" />
