@@ -1,5 +1,7 @@
-package com.java.leetcode.链表;
+package 左神算法.链表结构栈队列递归哈希表和有序表.链表;
 
+
+import com.java.leetcode.链表.ListNode;
 
 /**
  * https://leetcode-cn.com/problems/linked-list-cycle/

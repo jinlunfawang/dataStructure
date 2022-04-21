@@ -29,9 +29,9 @@ package 左神算法.认识复杂度对数器二分法与异或运算.排序;
 
 public class QuickSort {
     public static void main(String[] args) {
-        int[] arr = new int[]{-4,0,7,4,9,-5,-1,0,-7,-1};
-      //  quickSort2(arr);
-         quickSort3(arr);
+        int[] arr = new int[]{-4, 0, 7, 4, 9, -5, -1, 0, -7, -1};
+        //  quickSort2(arr);
+        quickSort3(arr);
 
         for (int i = 0; i < arr.length; i++) {
             System.out.print(arr[i] + ",");
@@ -41,8 +41,8 @@ public class QuickSort {
 
     /**
      * 快速排序终极版本
-     * // 随机选择num数  如果一直选择右边的数作为参考 假如数组是降序, 那么每次递归的时候就数组的长度就是N-1
-     * // 所以时间复杂度为n^2。假如16个数如果每次左右递归的数很平均   可以分为log2^16层 每层的复杂度为n 所以时间复杂度为nlon
+     * 随机选择num数:如果一直选择右边的数作为参考 假如数组是降序, 那么每次递归的时候就数组的长度就是N-1
+     * 所以时间复杂度为n^2。假如16个数如果每次左右递归的数很平均   可以分为log2^16层 每层的复杂度为n 所以时间复杂度为nlogN
      * <p>
      * //           16
      * //      8          8
@@ -87,7 +87,7 @@ public class QuickSort {
         process2(nums, l, mid[0] - 1);
         // 右侧范围重复玩这个递归
 
-        process2(nums, mid[1] , r);
+        process2(nums, mid[1], r);
     }
 
     /**
@@ -123,7 +123,6 @@ public class QuickSort {
             } else {
                 i++;
             }
-
         }
 
         return new int[]{lessIndex + 1, moreIndex};

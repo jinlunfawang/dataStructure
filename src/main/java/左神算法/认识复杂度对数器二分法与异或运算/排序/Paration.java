@@ -38,7 +38,7 @@ import static 左神算法.认识复杂度对数器二分法与异或运算.排�
  */
 
 
-public class Paration1 {
+public class Paration {
 
     public static void main(String[] args) {
         int[] arr = new int[]{6, 5, 4, 3, 2, -1, -3, 99};
