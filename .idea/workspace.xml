@@ -4,26 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="354756a2-e388-44b7-9e1c-ebbd0983b87e" name="Default Changelist" comment="2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_234_回文链表.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/链表面试题总结" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_141_环形链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_141_环形链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_203_移除链表元素.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_203_移除链表元素.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_206_反转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_206_反转链表.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_876_链表的中间结点.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_876_链表的中间结点.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/bean/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/bean/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/java/leetcode/TestLeetCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/java/leetcode/TestLeetCode1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/java/leetcode/TestLeetCode2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/java/leetcode/链表/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/java/leetcode/链表/_141_环形链表.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/java/leetcode/链表/_203_移除链表元素.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/java/leetcode/链表/_206_反转链表.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/java/leetcode/链表/_237_删除链表中的节点.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/test1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/堆排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/堆排序.class" afterDir="false" />
+    <list default="true" id="354756a2-e388-44b7-9e1c-ebbd0983b87e" name="Default Changelist" comment="resolve conflict">
+      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/反转链表和删除链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/反转链表和删除链表.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,7 +204,7 @@
       <workItem from="1649254128990" duration="710000" />
       <workItem from="1649586094837" duration="1551000" />
       <workItem from="1649855115167" duration="751000" />
-      <workItem from="1649949492588" duration="26700000" />
+      <workItem from="1649949492588" duration="27035000" />
     </task>
     <task id="LOCAL-00001" summary="测试mac提交">
       <created>1628317063094</created>
@@ -273,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649254161063</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2">
+      <created>1650589036637</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1650589036637</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +286,9 @@
     <MESSAGE value="实现了栈和队列" />
     <MESSAGE value="11" />
     <MESSAGE value="2" />
-    <option name="LAST_COMMIT_MESSAGE" value="2" />
+    <MESSAGE value="2111" />
+    <MESSAGE value="resolve conflict" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolve conflict" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
