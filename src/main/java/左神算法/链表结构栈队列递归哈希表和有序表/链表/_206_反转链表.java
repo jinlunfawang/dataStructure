@@ -28,6 +28,7 @@ public class _206_反转链表 {
         while (curNode != null) {
             // 暂存下一个节点 用来移动指针
              tempNode=curNode.next;
+
           curNode.next=preNode;
           preNode=curNode;
           curNode=tempNode;

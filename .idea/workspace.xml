@@ -5,7 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="354756a2-e388-44b7-9e1c-ebbd0983b87e" name="Default Changelist" comment="resolve conflict">
+      <change afterPath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/ListNodePataition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_148_排序链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/CheckMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/认识复杂度对数器二分法与异或运算/排序/CheckMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_206_反转链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_206_反转链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_234_回文链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_234_回文链表.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/反转链表和删除链表.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/反转链表和删除链表.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/array/DynamicArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/array/DynamicArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/array/DynamicArray2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/array/DynamicArray2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/array/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/array/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/array/TestDynamicArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/array/TestDynamicArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedListExercise/AbstractList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedListExercise/AbstractList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedListExercise/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedListExercise/LinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedListExercise/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedListExercise/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedListExercise/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedListExercise/List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedListExercise/TestLInkedList2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedListExercise/TestLInkedList2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/AbstractList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/AbstractList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/ArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/ArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/BothwayLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/BothwayLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/BothwayLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/BothwayLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/LinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/LinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/List.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/List.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/SingleLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/SingleLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/SingleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/SingleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/TestSingleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/linkedlist/TestSingleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/sort/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/sort/SelectBubbling.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/sort/SelectBubbling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/sort/SortBubbling.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/sort/SortBubbling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/sort/mergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/sort/mergeSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/sort/quickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/sort/quickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/sort/shellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/java/liangfwDS/sort/shellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/判断有序数组中是否存在某个值.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/判断有序数组中是否存在某个值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/异或/异或运算01_不需要额外变量交换两值.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/异或/异或运算01_不需要额外变量交换两值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/异或/打印出现奇数次的数.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/异或/打印出现奇数次的数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/异或/找出出现奇数次数2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/异或/找出出现奇数次数2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/CheckMachine.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/CheckMachine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/Paration.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/Paration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/冒泡排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/冒泡排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/堆排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/堆排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/插入排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/插入排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/选择排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/排序/选择排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/有序数组中找某个数最左侧的位置.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/认识复杂度对数器二分法与异或运算/有序数组中找某个数最左侧的位置.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue$DoubleNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue$DoubleNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue$DoubuleNodeToStackAndQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue$DoubuleNodeToStackAndQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue$MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue$MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue$MyStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue$MyStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/DoubuleEndQueueToStackAndQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/QueueArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/QueueArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/QueueUseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/QueueUseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/StackArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/StackArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/StackUserArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/StackUserArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/StackUserNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/StackUserNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/StackUserNodeImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/StackUserNodeImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/bean/DoubleNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/bean/DoubleNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/bean/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/bean/Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/反转链表和删除链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/左神算法/链表结构栈队列递归哈希表和有序表/链表/反转链表和删除链表.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,10 +125,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.3323077" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -79,20 +138,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._234_回文链表">
-    <configuration name="归并排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神算法.认识复杂度对数器二分法与异或运算.排序.归并排序" />
-      <module name="dataStructure" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="左神算法.认识复杂度对数器二分法与异或运算.排序.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ListNodePataition">
     <configuration name="堆排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="左神算法.认识复杂度对数器二分法与异或运算.排序.堆排序" />
       <module name="dataStructure" />
@@ -106,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="左神算法.认识复杂度对数器二分法与异或运算.排序.SmallSum" />
+    <configuration name="ListNodePataition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神算法.链表结构栈队列递归哈希表和有序表.链表.ListNodePataition" />
       <module name="dataStructure" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="左神算法.认识复杂度对数器二分法与异或运算.排序.*" />
+          <option name="PATTERN" value="左神算法.链表结构栈队列递归哈希表和有序表.链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,6 +171,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="左神算法.认识复杂度对数器二分法与异或运算.排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_148_排序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="左神算法.链表结构栈队列递归哈希表和有序表.链表._148_排序链表" />
+      <module name="dataStructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="左神算法.链表结构栈队列递归哈希表和有序表.链表.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ListNodePataition" />
+        <item itemvalue="Application._148_排序链表" />
         <item itemvalue="Application._234_回文链表" />
         <item itemvalue="Application.test1" />
         <item itemvalue="Application.堆排序" />
-        <item itemvalue="Application.归并排序" />
-        <item itemvalue="Application.SmallSum" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +263,7 @@
       <workItem from="1649254128990" duration="710000" />
       <workItem from="1649586094837" duration="1551000" />
       <workItem from="1649855115167" duration="751000" />
-      <workItem from="1649949492588" duration="27035000" />
+      <workItem from="1649949492588" duration="47113000" />
     </task>
     <task id="LOCAL-00001" summary="测试mac提交">
       <created>1628317063094</created>
@@ -262,7 +321,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650589036637</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="resolve conflict">
+      <created>1650589299174</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1650589299174</updated>
+    </task>
+    <task id="LOCAL-00010" summary="resolve conflict">
+      <created>1650589305884</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1650589305884</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -385,13 +458,33 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_234_回文链表.java</url>
-          <line>132</line>
-          <option name="timeStamp" value="108" />
+          <line>119</line>
+          <option name="timeStamp" value="110" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_234_回文链表.java</url>
-          <line>120</line>
-          <option name="timeStamp" value="110" />
+          <line>113</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/_148_排序链表.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/ListNodePataition.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/ListNodePataition.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/ListNodePataition.java</url>
+          <line>161</line>
+          <option name="timeStamp" value="134" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/左神算法/test1.java</url>
@@ -409,12 +502,38 @@
           </properties>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_271.jdk/Contents/Home/src.zip!/java/util/Stack.java</url>
+          <line>52</line>
+          <properties class="java.util.Stack" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/左神算法/链表结构栈队列递归哈希表和有序表/链表/ListNodePataition.java</url>
+          <line>33</line>
+          <properties class="左神算法.链表结构栈队列递归哈希表和有序表.链表.ListNodePataition" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="135" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="左神算法.链表结构栈队列递归哈希表和有序表.链表.bean.ListNode" memberName="val" />
+        <PinnedItemInfo parentTag="左神算法.链表结构栈队列递归哈希表和有序表.链表.bean.ListNode" memberName="next" />
+      </pinned-members>
+    </pin-to-top-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="list.get(3).next" />
       </configuration>
     </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

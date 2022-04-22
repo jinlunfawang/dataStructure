@@ -1,11 +1,14 @@
 package 左神算法.认识复杂度对数器二分法与异或运算.排序;
 
+import 左神算法.链表结构栈队列递归哈希表和有序表.链表.bean.ListNode;
+
 /**
  * 对数器
- *  包括
- *   1.交换 个数的位置
- *   2.给定最大长度 生成数组
- *   3.打印数组
+ * 包括
+ * 1.交换 个数的位置
+ * 2.给定最大长度 生成数组
+ * 3.打印数组
+ *
  * @version 1.0
  * @Author: liangfangwei
  * @Date: 2021/9/12 21:03
@@ -35,6 +38,32 @@ public class CheckMachine {
 
     }
 
+
+    public static void swapNode(ListNode[] arr, int i, int j) {
+
+        ListNode listNode;
+        listNode = arr[i];
+        arr[i] = arr[j];
+        arr[j] = listNode;
+
+    }
+
+    /**
+     * 打印链表节点
+     *
+     * @param head
+     */
+    public static void printNode(ListNode head) {
+        ListNode temNode = head;
+        while (temNode != null) {
+            System.out.print(temNode.val+" ");
+            temNode = temNode.next;
+        }
+        System.out.println("");
+
+
+    }
+
     /**
      * 生成随机数组
      *
@@ -54,7 +83,6 @@ public class CheckMachine {
     }
 
 
-
     /**
      * 打印数组
      *
@@ -67,7 +95,6 @@ public class CheckMachine {
 
         }
     }
-
 
 
     /**
@@ -86,7 +113,8 @@ public class CheckMachine {
             if (arr1[i] != arr2[i]) {
                 System.out.println();
                 return false;
-            } ;
+            }
+            ;
         }
         return true;
     }
