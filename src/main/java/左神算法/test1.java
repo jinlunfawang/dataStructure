@@ -1,5 +1,7 @@
 package 左神算法;
 
+import java.util.ArrayList;
+
 /**
  * -                   _ooOoo_
  * -                  o8888888o
@@ -29,11 +31,11 @@ package 左神算法;
 
 public class test1 {
     public static void main(String[] args) {
-  int[] a=new int[3];
-        for (int i = 0; i < a.length; i++) {
-            System.out.println(a[i]);
-
-        }
+//  int[] a=new int[3];
+//        for (int i = 0; i < a.length; i++) {
+//            System.out.println(a[i]);
+//
+//        }
 //        Node node = new Node(1);
 //        Node node1 = new Node(2);
 //        ArrayList<Node> nodes = new ArrayList<>();
@@ -52,6 +54,10 @@ public class test1 {
 //        }
 
         System.out.println("random="+(int)(Math.random()*1000));
+        ArrayList<Integer> integers = new ArrayList<>();
+        integers.add(1);
+        integers.add(2);
+        System.out.println(integers.size());
     }
 
 
