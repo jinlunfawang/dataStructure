@@ -52,6 +52,7 @@ public class ListNodePataition {
         System.out.println("以 " + standValue + " 为基准partition前:");
         CheckMachine.printNode(head);
         int i = 0;
+
         ListNode tempNode1 = head;
         ListNode tempNode2 = head;
 
@@ -135,6 +136,7 @@ public class ListNodePataition {
 
             head = next;
         }
+
         // 有小于区域的情况
         if (lessTail != null) {
             lessTail.next = equalHead;
@@ -146,7 +148,7 @@ public class ListNodePataition {
             equalTail.next = moreHead;
         }
 
-        returnNode=lessHead != null ? lessHead : (equalHead != null ? equalHead : moreHead);
+        returnNode = lessHead != null ? lessHead : (equalHead != null ? equalHead : moreHead);
         System.out.println("以 " + standValue + " 为基准partition后:");
         CheckMachine.printNode(returnNode);
         return returnNode;
@@ -158,7 +160,7 @@ public class ListNodePataition {
         int lessIndex = -1;
         int index = 0;
         int moreIndex = nodeArr.length;
-        while (index < moreIndex)
+        while (index < moreIndex) {
             if (nodeArr[index].val < standValue) {
                 CheckMachine.swapNode(nodeArr, ++lessIndex, index++);
             } else if (nodeArr[index].val > standValue) {
@@ -167,6 +169,7 @@ public class ListNodePataition {
                 index++;
 
             }
+        }
     }
 
 
